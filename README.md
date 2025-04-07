@@ -114,9 +114,6 @@
 </div>
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif"  width="1920"  />
 
-
-
-<img src="CODEMY.png" width="1920" />
 <p> SOUMIK MUKHERJEE<img src="soumiklive.gif" width="20" alt="Live Image" /> </p>
 
 
