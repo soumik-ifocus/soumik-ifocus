@@ -116,19 +116,7 @@
 </div>
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif"  width="1920"  />
 
-##
 
-<img src="SOUMIKDEV.gif" width="1920" >
-
-<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif"  width="1920"  />
-
-<img src="grid-snake-dark.svg" width="1920">
-
-<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif"  width="1920"  />
-<img src="GAME.gif" width="1920" />
-- 📫 How to reach me *onlinekazama19@gmail.com*
-
-<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif"  width="1920"  />
 
 <img src="CODEMY.png" width="1920" />
 <p> SOUMIK MUKHERJEE<img src="soumiklive.gif" width="20" alt="Live Image" /> </p>
